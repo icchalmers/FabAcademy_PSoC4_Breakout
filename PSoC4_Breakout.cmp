@@ -1,0 +1,283 @@
+Cmp-Mod V01 Genere par PcbNew le Mon 16 Mar 2015 22:43:14 GMT
+
+BeginCmp
+TimeStamp = 55072F8C
+Path = /5506F6BD
+Reference = U13;
+ValeurCmp = SN74LVC1T45;
+IdModule  = FabLibrary:TI-DBV-SOT23_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070EC7
+Path = /5504B360
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070ECD
+Path = /5504B323
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070ED3
+Path = /55055864
+Reference = C3;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070ED9
+Path = /55055470
+Reference = C4;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070EDF
+Path = /55054D42
+Reference = C5;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070EE5
+Path = /55054FE1
+Reference = C6;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070EEB
+Path = /55055009
+Reference = C7;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070EF1
+Path = /5505503A
+Reference = C8;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070EF7
+Path = /55055076
+Reference = C9;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070EFD
+Path = /550550A3
+Reference = C10;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F03
+Path = /55055197
+Reference = C11;
+ValeurCmp = 0.1u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F0F
+Path = /55073D9E
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F16
+Path = /5504B0B5
+Reference = U1;
+ValeurCmp = LP38691;
+IdModule  = FabLibrary:LP38691_TO252;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F46
+Path = /55049F73
+Reference = U2;
+ValeurCmp = CY8CKIT-049-42xx;
+IdModule  = FabLibrary:CYKIT-49-42xx;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F4E
+Path = /5504B6A2
+Reference = U3;
+ValeurCmp = WS2812b;
+IdModule  = FabLibrary:WS2812b_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F56
+Path = /5504B819
+Reference = U4;
+ValeurCmp = WS2812b;
+IdModule  = FabLibrary:WS2812b_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F5E
+Path = /5504B867
+Reference = U5;
+ValeurCmp = WS2812b;
+IdModule  = FabLibrary:WS2812b_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F66
+Path = /5504B978
+Reference = U6;
+ValeurCmp = WS2812b;
+IdModule  = FabLibrary:WS2812b_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F6E
+Path = /5504BA1D
+Reference = U7;
+ValeurCmp = WS2812b;
+IdModule  = FabLibrary:WS2812b_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F76
+Path = /5504BA4B
+Reference = U8;
+ValeurCmp = WS2812b;
+IdModule  = FabLibrary:WS2812b_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F7E
+Path = /5504BA90
+Reference = U9;
+ValeurCmp = WS2812b;
+IdModule  = FabLibrary:WS2812b_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F86
+Path = /5504BB22
+Reference = U10;
+ValeurCmp = WS2812b;
+IdModule  = FabLibrary:WS2812b_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F8E
+Path = /5504B8C6
+Reference = U11;
+ValeurCmp = WS2812b;
+IdModule  = FabLibrary:WS2812b_handsolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 550738ED
+Path = /550728EF
+Reference = U12;
+ValeurCmp = ESP8266-ESP-01;
+IdModule  = FabLibrary:ESP8266-ESP-01;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070FA9
+Path = /5507836B
+Reference = U14;
+ValeurCmp = CapSenseButton;
+IdModule  = FabLibrary:CapSenseButton;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070FAE
+Path = /5507842C
+Reference = U15;
+ValeurCmp = CapSenseButton;
+IdModule  = FabLibrary:CapSenseButton;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070FB3
+Path = /550784A0
+Reference = U16;
+ValeurCmp = CapSenseButton;
+IdModule  = FabLibrary:CapSenseButton;
+EndCmp
+
+BeginCmp
+TimeStamp = 55071915
+Path = /5507850E
+Reference = U17;
+ValeurCmp = CapSenseButton;
+IdModule  = FabLibrary:CapSenseButton;
+EndCmp
+
+BeginCmp
+TimeStamp = 5507170E
+Path = /5504B154
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = FabLibrary:conn_usb_B_mini_smd;
+EndCmp
+
+BeginCmp
+TimeStamp = 55070F09
+Path = /5504BF03
+Reference = R1;
+ValeurCmp = 100;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 550740B3
+Path = /5508CCEF
+Reference = C12;
+ValeurCmp = 10u;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 550751F6
+Path = /5507593C
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55075202
+Path = /55075876
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = FabLibrary:C_1206_HandSoldering_IainEdit;
+EndCmp
+
+BeginCmp
+TimeStamp = 55075213
+Path = /55074A7B
+Reference = U18;
+ValeurCmp = TMP275;
+IdModule  = FabLibrary:TI-D-SO-8_handsolder;
+EndCmp
+
+EndListe
