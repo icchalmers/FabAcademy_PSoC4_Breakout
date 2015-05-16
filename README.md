@@ -2,7 +2,7 @@
 
 A small breakout board for the PSoC 4 CY8CKIT-049 42xx prototyping kit. It includes WS2812b LEDs, a TMP275 temperature sensor, CapSense buttons and a header to attach an ESP-01 module. It was made as part [Fab Academy 2015](http://www.fabacademy.org/) at [Fab Lab Strathclyde](http://www.strath.ac.uk/fablab/). You can follow the process on [my class website](http://fabacademy.org/archives/2015/eu/students/chalmers.iain/index.html). The content is also mirrored to [my GitHub Pages site](http://icchalmers.github.io/).
 
-Note that there us one jumper wire needed if making this as a single sided board.
+Note that there is one jumper wire needed if making this as a single sided board.
 
 # WARNING!
 
